@@ -1,1 +1,5 @@
 # yadu
+
+pADMAN
+SPIDERMAN
+BATMAN
